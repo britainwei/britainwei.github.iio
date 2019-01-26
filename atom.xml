@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>勿忘初心</title>
+  
+  <subtitle>记录点滴、及时总结</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.britainwei.com/"/>
+  <updated>2019-01-26T14:22:01.225Z</updated>
+  <id>https://www.britainwei.com/</id>
+  
+  <author>
+    <name>Britain Wei</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>28min 全身锻炼(有氧&amp;无氧)</title>
+    <link href="https://www.britainwei.com/2019/01/26/28min-%E5%85%A8%E8%BA%AB%E9%94%BB%E7%82%BC-%E6%9C%89%E6%B0%A7-%E6%97%A0%E6%B0%A7/"/>
+    <id>https://www.britainwei.com/2019/01/26/28min-全身锻炼-有氧-无氧/</id>
+    <published>2019-01-26T13:48:26.000Z</published>
+    <updated>2019-01-26T14:22:01.225Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;em&gt;内容整理自 bodybuiding: &lt;a href=&quot;https://www.bodybuilding.com/content/the-28-minute-amrap-workout-to-build-muscle-and-burn-fat.html&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="健身" scheme="https://www.britainwei.com/categories/%E5%81%A5%E8%BA%AB/"/>
+    
+    
+      <category term="健身" scheme="https://www.britainwei.com/tags/%E5%81%A5%E8%BA%AB/"/>
+    
+      <category term="全身锻炼" scheme="https://www.britainwei.com/tags/%E5%85%A8%E8%BA%AB%E9%94%BB%E7%82%BC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>狗奴攻略</title>
+    <link href="https://www.britainwei.com/2018/06/14/%E7%8B%97%E5%A5%B4%E6%94%BB%E7%95%A5/"/>
+    <id>https://www.britainwei.com/2018/06/14/狗奴攻略/</id>
+    <published>2018-06-14T06:00:54.000Z</published>
+    <updated>2018-06-14T06:06:12.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;准备物品&quot;&gt;&lt;a href=&quot;#准备物品&quot; class=&quot;headerlink&quot; title=&quot;准备物品&quot;&gt;&lt;/a&gt;准备物品&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;食&lt;ul&gt;
+&lt;li&gt;饮水器:
+        
+      
+    
+    </summary>
+    
+    
+      <category term="狗" scheme="https://www.britainwei.com/tags/%E7%8B%97/"/>
+    
+      <category term="狗奴" scheme="https://www.britainwei.com/tags/%E7%8B%97%E5%A5%B4/"/>
+    
+      <category term="养狗" scheme="https://www.britainwei.com/tags/%E5%85%BB%E7%8B%97/"/>
+    
+      <category term="幼崽" scheme="https://www.britainwei.com/tags/%E5%B9%BC%E5%B4%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spark 终端快速开发</title>
+    <link href="https://www.britainwei.com/2018/04/25/Spark-%E7%BB%88%E7%AB%AF%E5%BF%AB%E9%80%9F%E5%BC%80%E5%8F%91/"/>
+    <id>https://www.britainwei.com/2018/04/25/Spark-终端快速开发/</id>
+    <published>2018-04-25T03:20:00.000Z</published>
+    <updated>2018-05-02T02:06:06.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;举例说明&quot;&gt;&lt;a href=&quot;#举例说明&quot; class=&quot;headerlink&quot; title=&quot;举例说明&quot;&gt;&lt;/a&gt;举例说明&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;使用场景：&lt;/strong&gt; 为了快速响应开发，分析 HDFS
+        
+      
+    
+    </summary>
+    
+    
+      <category term="大数据" scheme="https://www.britainwei.com/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+      <category term="spark" scheme="https://www.britainwei.com/tags/spark/"/>
+    
+      <category term="spark-shell" scheme="https://www.britainwei.com/tags/spark-shell/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.britainwei.com/2018/04/25/hello-world/"/>
+    <id>https://www.britainwei.com/2018/04/25/hello-world/</id>
+    <published>2018-04-25T01:31:36.000Z</published>
+    <updated>2018-04-25T01:31:36.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
