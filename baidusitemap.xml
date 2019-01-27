@@ -1,106 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-
-    
-    
-    
   <url>
     <loc>https://www.britainwei.com/2019/01/26/hexo/</loc>
-    <lastmod>2019-01-27T04:00:22.768Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo 使用 & 问题</title>
-        <pubTime>2019-01-26T13:48:26.000Z</pubTime>
-        
-        <tag>hexo</tag>
-         
-        <tag>博客</tag>
-         
-        <tag>工具</tag>
-         
-         
-           
-             
-              <breadCrumb title="技术" url="https://www.britainwei.com/categories/%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-    
-    
-    
-  <url>
+    <lastmod>2019-01-27</lastmod>
+  </url>  <url>
     <loc>https://www.britainwei.com/2018/06/14/%E7%8B%97%E5%A5%B4%E6%94%BB%E7%95%A5/</loc>
-    <lastmod>2019-01-27T03:23:32.112Z</lastmod>
-    <data>
-        <display>
-        <title>狗奴攻略</title>
-        <pubTime>2018-06-14T06:00:54.000Z</pubTime>
-        
-        <tag>狗</tag>
-         
-        <tag>狗奴</tag>
-         
-        <tag>养狗</tag>
-         
-        <tag>幼崽</tag>
-         
-         
-           
-             
-              <breadCrumb title="宠物" url="https://www.britainwei.com/categories/%E5%AE%A0%E7%89%A9/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+    <lastmod>2019-01-27</lastmod>
+  </url>  <url>
     <loc>https://www.britainwei.com/2018/04/25/Spark-%E7%BB%88%E7%AB%AF%E5%BF%AB%E9%80%9F%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2019-01-27T03:22:56.489Z</lastmod>
-    <data>
-        <display>
-        <title>Spark 终端快速开发</title>
-        <pubTime>2018-04-25T03:20:00.000Z</pubTime>
-        
-        <tag>大数据</tag>
-         
-        <tag>spark</tag>
-         
-        <tag>spark-shell</tag>
-         
-         
-           
-             
-              <breadCrumb title="技术" url="https://www.britainwei.com/categories/%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+    <lastmod>2019-01-27</lastmod>
+  </url>  <url>
     <loc>https://www.britainwei.com/2019/01/26/28min-%E5%85%A8%E8%BA%AB%E9%94%BB%E7%82%BC-%E6%9C%89%E6%B0%A7-%E6%97%A0%E6%B0%A7/</loc>
-    <lastmod>2019-01-26T14:42:43.257Z</lastmod>
-    <data>
-        <display>
-        <title>28min 全身锻炼(有氧&无氧)</title>
-        <pubTime>2019-01-26T13:48:26.000Z</pubTime>
-        
-        <tag>健身</tag>
-         
-        <tag>全身锻炼</tag>
-         
-         
-           
-             
-              <breadCrumb title="健身" url="https://www.britainwei.com/categories/%E5%81%A5%E8%BA%AB/"/>
-          
-        </display>
-    </data>
-    </url>
-
+    <lastmod>2019-01-26</lastmod>
+  </url>
 </urlset>
