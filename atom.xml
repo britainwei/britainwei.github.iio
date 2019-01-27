@@ -17,28 +17,6 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://www.britainwei.com/2019/01/26/hello-world/"/>
-    <id>https://www.britainwei.com/2019/01/26/hello-world/</id>
-    <published>2019-01-26T14:42:43.256Z</published>
-    <updated>2019-01-26T14:42:43.257Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>28min 全身锻炼(有氧&amp;无氧)</title>
     <link href="https://www.britainwei.com/2019/01/26/28min-%E5%85%A8%E8%BA%AB%E9%94%BB%E7%82%BC-%E6%9C%89%E6%B0%A7-%E6%97%A0%E6%B0%A7/"/>
     <id>https://www.britainwei.com/2019/01/26/28min-全身锻炼-有氧-无氧/</id>
@@ -67,11 +45,41 @@
   </entry>
   
   <entry>
+    <title>Hexo 使用 &amp; 问题</title>
+    <link href="https://www.britainwei.com/2019/01/26/hexo/"/>
+    <id>https://www.britainwei.com/2019/01/26/hexo/</id>
+    <published>2019-01-26T13:48:26.000Z</published>
+    <updated>2019-01-27T03:22:40.714Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://www.britainwei.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="hexo" scheme="https://www.britainwei.com/tags/hexo/"/>
+    
+      <category term="博客" scheme="https://www.britainwei.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="工具" scheme="https://www.britainwei.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
     <title>狗奴攻略</title>
     <link href="https://www.britainwei.com/2018/06/14/%E7%8B%97%E5%A5%B4%E6%94%BB%E7%95%A5/"/>
     <id>https://www.britainwei.com/2018/06/14/狗奴攻略/</id>
     <published>2018-06-14T06:00:54.000Z</published>
-    <updated>2019-01-26T14:42:43.257Z</updated>
+    <updated>2019-01-27T03:23:32.112Z</updated>
     
     <summary type="html">
     
@@ -86,6 +94,8 @@
       
     
     </summary>
+    
+      <category term="宠物" scheme="https://www.britainwei.com/categories/%E5%AE%A0%E7%89%A9/"/>
     
     
       <category term="狗" scheme="https://www.britainwei.com/tags/%E7%8B%97/"/>
@@ -103,7 +113,7 @@
     <link href="https://www.britainwei.com/2018/04/25/Spark-%E7%BB%88%E7%AB%AF%E5%BF%AB%E9%80%9F%E5%BC%80%E5%8F%91/"/>
     <id>https://www.britainwei.com/2018/04/25/Spark-终端快速开发/</id>
     <published>2018-04-25T03:20:00.000Z</published>
-    <updated>2019-01-26T14:42:43.256Z</updated>
+    <updated>2019-01-27T03:22:56.489Z</updated>
     
     <summary type="html">
     
@@ -117,6 +127,8 @@
       
     
     </summary>
+    
+      <category term="技术" scheme="https://www.britainwei.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
       <category term="大数据" scheme="https://www.britainwei.com/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
